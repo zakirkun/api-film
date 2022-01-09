@@ -1,2 +1,7 @@
-# api-film
- api film,anime.drakor
+## Api Film
+Tutorial Install 
+
+    npm i
+Abis itu
+
+    npm run dev
